@@ -1,0 +1,28 @@
+{
+  "name": "social-hub",
+  "version": "0.1.0",
+  "description": "Social hub for all social platforms.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Molgurt/social-hub.git"
+  },
+  "keywords": [
+    "social",
+    "hub",
+    "contacts"
+  ],
+  "author": "Patrik Hagernäs",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Molgurt/social-hub/issues"
+  },
+  "homepage": "https://github.com/Molgurt/social-hub#readme",
+  "dependencies": {
+    "electron": "^4.1.4",
+    "npm": "^6.9.0"
+  }
+}
