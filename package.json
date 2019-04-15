@@ -23,6 +23,7 @@
   "homepage": "https://github.com/Molgurt/social-hub#readme",
   "dependencies": {
     "electron": "^4.1.4",
-    "npm": "^6.9.0"
+    "npm": "^6.9.0",
+    "styled-components": "^4.2.0"
   }
 }
