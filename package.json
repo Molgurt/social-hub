@@ -25,6 +25,7 @@
     "electron": "^4.1.4",
     "npm": "^6.9.0",
     "react": "^16.8.6",
+    "redux": "^4.0.1",
     "styled-components": "^4.2.0"
   }
 }
